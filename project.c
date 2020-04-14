@@ -5,7 +5,8 @@
 /* 10 Points */
 void ALU(unsigned A,unsigned B,char ALUControl,unsigned *ALUresult,char *Zero)
 {
-
+//editing -jacob
+  
 }
 
 /* instruction fetch */
